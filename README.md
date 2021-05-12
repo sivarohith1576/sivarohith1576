@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siva Rohith
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning c language 😢😢
-- 💞️ I’m looking to collaborate on ...
+- I am a student from MANIT Bhopal
 - 📫 How to reach me ... sivarohithreddy2002.rk@gmail.com
 
 <!---
