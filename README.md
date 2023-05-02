@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siva Rohith
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning c language 😢😢
+- 🌱 I know  c , c++ , python language 😢😢
 - I am a student from MANIT Bhopal
 - 📫 How to reach me ... sivarohithreddy2002.rk@gmail.com
 
